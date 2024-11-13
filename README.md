@@ -55,7 +55,7 @@ This collection features tools and services built with developers in mind—wher
 * [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 * [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 * [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool.
-* * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
+* [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
 * [PostHog](https://posthog.com/) - Open-source product analytics platform. 
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
